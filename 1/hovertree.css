@@ -1,6 +1,6 @@
 html{
-	background:linear-gradient(#ff0 0%,#000 80%) no-repeat;
-    height: 100%;	
+	background:linear-gradient(#ff0 0%,#000 80%);
+        height: 130%;	
 }
 /*最外层容器样式*/
 .wrap{
